@@ -1,9 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[2]:
-
-
+# FFT ALGORITHM
 import cv2
 import numpy as np
 
@@ -22,10 +18,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 
-# In[1]:
-
-
-import cv2
+# HAAR CASCADES FILTER
 #face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 #eye_cascade = cv2.CascadeClassifier('haarcascade_eye_default.xml')
 
@@ -58,9 +51,6 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows
-
-
-# In[ ]:
 
 
 
