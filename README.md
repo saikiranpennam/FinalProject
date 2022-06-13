@@ -1,2 +1,2 @@
 # FinalProject
-A novel approach to detect pulse using machine learning
+A reimplementation to detect heart pulse using Machine Learning
